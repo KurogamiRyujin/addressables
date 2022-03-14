@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776244821729",
+    "project_id": "addressables-f52c6",
+    "storage_bucket": "addressables-f52c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776244821729:android:542f46a2a694239cc801a0",
+        "android_client_info": {
+          "package_name": "com.TaktylStudios.Addressables"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776244821729-5j1cjf2p7u68omvjp8ve4s0vg1e2unmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.TaktylStudios.Addressables",
+            "certificate_hash": "25e1b76e183aa9bf0c5841119f36936c6bee763d"
+          }
+        },
+        {
+          "client_id": "776244821729-m9jpmorl2hbv979ce9ov2cma582v6k9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-lTctDHo2frI7E0xWSLCD-mjtluxL-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776244821729-m9jpmorl2hbv979ce9ov2cma582v6k9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

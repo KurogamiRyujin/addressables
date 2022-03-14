@@ -1,0 +1,1 @@
+This is a Firebase Storage dependent project. Right after cloning this project, import Firebase Storage.
